@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lotto/static/css/main.2fb03aed.css",
+    "main.js": "/lotto/static/js/main.33f605a6.js",
+    "index.html": "/lotto/index.html",
+    "main.2fb03aed.css.map": "/lotto/static/css/main.2fb03aed.css.map",
+    "main.33f605a6.js.map": "/lotto/static/js/main.33f605a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fb03aed.css",
+    "static/js/main.33f605a6.js"
+  ]
+}
